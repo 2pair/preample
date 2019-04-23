@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1363
+D 70MHz, 1000V/µs Operational Amplifier, DIP-8/SOIC-8
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1363fa.pdf
+$ENDCMP
+#
+$CMP OP2228UA
+D High Precision, Low Noise Operational Amplifier
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2227.pdf
+$ENDCMP
+#
+$CMP OP77
+D Next Generation OP07 Ultralow Offset Voltage Operational Amplifier, DIP-8/TO-99-8
+K single opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/OP77.pdf
+$ENDCMP
+#
+$CMP OPA134
+D Single SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA228UA
+D Single Ultra-Low Offset Voltage Operational Amplifier, DIP-8/SOIC-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa2227.pdf
+$ENDCMP
+#
+#End Doc Library
