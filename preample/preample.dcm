@@ -1,9 +1,25 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +17V
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP -17V
+D Power flag
+K power-flag
+$ENDCMP
+#
 $CMP LT1363
 D 70MHz, 1000V/µs Operational Amplifier, DIP-8/SOIC-8
 K single opamp
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1363fa.pdf
+$ENDCMP
+#
+$CMP OP2134UA
+D High Precision, Low Noise Operational Amplifier
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa2227.pdf
 $ENDCMP
 #
 $CMP OP2228UA
