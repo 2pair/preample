@@ -46,4 +46,8 @@ K single opamp
 F http://www.ti.com/lit/ds/symlink/opa2227.pdf
 $ENDCMP
 #
+$CMP TPS7A39
+D Dual, 150-mA, Wide VIN Positive and Negative LDO Voltage Regulator
+$ENDCMP
+#
 #End Doc Library
