@@ -39,6 +39,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Packages for fab
+*.zip
+
 # =========================
 # Operating System Files
 # =========================

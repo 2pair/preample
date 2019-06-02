@@ -52,17 +52,28 @@ Pin Part No SVA-41T-P1.1
 Wire Wire Line
 	4800 2950 4650 2950
 Wire Wire Line
-	4650 2950 4650 3200
-Wire Wire Line
 	5200 2950 5550 2950
 Wire Wire Line
 	5200 2750 5450 2750
 Wire Wire Line
 	4800 2750 4550 2750
 Wire Wire Line
-	4550 2750 4550 3200
-Wire Wire Line
 	5450 2750 5450 3200
 Wire Wire Line
 	5550 2950 5550 3200
+$Comp
+L Device:Fuse_Small F1
+U 1 1 5CF31E3C
+P 4650 3050
+F 0 "F1" V 4604 3098 50  0000 L CNN
+F 1 "Fuse_Small" V 4695 3098 50  0000 L CNN
+F 2 "power:Keystone 4628 Fuse Holder" H 4650 3050 50  0001 C CNN
+F 3 "~" H 4650 3050 50  0001 C CNN
+	1    4650 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4650 3200 4650 3150
+Wire Wire Line
+	4550 3200 4550 2750
 $EndSCHEMATC
