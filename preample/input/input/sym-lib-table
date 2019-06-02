@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name input)(type Legacy)(uri ${KIPRJMOD}/input.lib)(options "")(descr ""))
+)
